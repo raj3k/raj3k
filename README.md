@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Quiz app](https://github.com/raj3k/quiz_app)
 
-- 🌱 I’m currently learning **Django, Django REST Framework**
+- 🌱 I’m currently learning **Django, Django REST Framework and Go language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raj3k](https://github.com/raj3k)
 
