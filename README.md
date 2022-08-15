@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maciej Łukaszuk</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Quiz app](https://github.com/raj3k/quiz_app)
+- 🔭 I’m currently working on [Code Snippets app](https://github.com/raj3k/code_snip)
 
 - 🌱 I’m currently learning **Django, Django REST Framework and Go language**
 
