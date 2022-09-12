@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Code Snippets app](https://github.com/raj3k/code_snip)
 
-- 🌱 I’m currently learning **Django, Django REST Framework and Go language**
+- 🌱 I’m currently learning **Django, Django REST Framework and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raj3k](https://github.com/raj3k)
 
