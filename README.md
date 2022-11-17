@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maciej Łukaszuk</h1>
 <h3 align="center">Backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Code Snippets app](https://github.com/raj3k/code_snip)
+- 🔭 I’m currently working on [Crossfit Api](https://github.com/raj3k/crossfit-api)
 
 - 🌱 I’m currently learning **Django, Django REST Framework and Node.js**
 
