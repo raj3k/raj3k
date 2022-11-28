@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Crossfit Api](https://github.com/raj3k/crossfit-api)
 
-- 🌱 I’m currently learning **Django, Django REST Framework and Node.js**
+- 🌱 I’m currently learning **Node.js, TypeScript and REST APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raj3k](https://github.com/raj3k)
 
