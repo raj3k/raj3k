@@ -3,7 +3,7 @@
 <h3 align="center">Backend developer from Poland</h3>
 
 - 🔭 I’m currently working on:
-    - [Crossfit Api](https://github.com/raj3k/CrossfitBox-Booking-System)
+    - [Crossfit Box Booking application](https://github.com/raj3k/CrossfitBox-Booking-System)
     - [Helpdesk System](https://github.com/raj3k/helpdesk-system)
     - [PackIT](https://github.com/raj3k/PackIT)
 
