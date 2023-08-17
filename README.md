@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm Maciej Łukaszuk</h1>
 <h3 align="center">Backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Crossfit Api](https://github.com/raj3k/crossfit-api)
+- 🔭 I’m currently working on:
+    - [Crossfit Api](https://github.com/raj3k/CrossfitBox-Booking-System)
+    - [Helpdesk System](https://github.com/raj3k/helpdesk-system)
+    - [PackIT](https://github.com/raj3k/PackIT)
 
-- 🌱 I’m currently learning **Node.js, TypeScript and REST APIs**
+- 🌱 I’m currently learning **.NET**, **C#**, **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raj3k](https://github.com/raj3k)
 
